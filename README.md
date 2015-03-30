@@ -1,2 +1,2 @@
-# dsl1
-DSL LAB 1
+# android app dev practice
+This is the repository for android app developement practice.
